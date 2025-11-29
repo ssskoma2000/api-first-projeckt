@@ -25,3 +25,5 @@ module.exports = {
     otkir1,
     otkir2
 }
+
+
